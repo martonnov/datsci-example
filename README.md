@@ -1,10 +1,10 @@
 # datsci-example
 
-Small example of what and how I learned data science in the last semester.
+Small example of what and how I learned of data science in the last semester.
 
 ## Explanation
 
-The following methods and algorithms were used:
+The following methods and algorithms were used on a dataset of costumers. We had to predict wether the person will be good or bad deptor.
 * dummy classifier to make a baseline for future improvements
 * confusion matrix for evaluation
 * metrics, like
